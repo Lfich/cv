@@ -1,0 +1,1 @@
+Lucas Fichou resume, made using [YAAC](https://github.com/darwiin/yaac-another-awesome-cv) no modifications to the original template other than the content of .tex files for obvious reasons.
